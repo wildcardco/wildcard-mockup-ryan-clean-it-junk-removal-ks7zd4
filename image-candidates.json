@@ -1,0 +1,29 @@
+{
+  "candidates": [
+    {
+      "url": "https://images.unsplash.com/photo-1762805543729-361d38e78a37?fm=jpg&q=60&w=3000&auto=format&fit=crop",
+      "alt": "Workers loading trash into a garbage truck on a street"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1574974671999-24b7dfbb0d53?fm=jpg&q=60&w=3000&auto=format&fit=crop",
+      "alt": "People collecting trash in a garbage truck"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1635691315495-ff39debe5764?fm=jpg&q=60&w=3000&auto=format&fit=crop",
+      "alt": "Garbage truck parked on the side of the road"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1648848568410-829a327c7b1e?fm=jpg&q=60&w=3000&auto=format&fit=crop",
+      "alt": "Garbage truck parked in front of a building"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1612145342813-849b0c3e7f71?fm=jpg&q=60&w=3000&auto=format&fit=crop",
+      "alt": "Worker in orange jacket standing near garbage"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1577554969330-4fca5ed32923?fm=jpg&q=60&w=3000&auto=format&fit=crop",
+      "alt": "Garbage loaded inside a garbage truck"
+    }
+  ],
+  "source": "ai_search"
+}
